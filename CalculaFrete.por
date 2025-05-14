@@ -18,7 +18,7 @@ real valor, distancia
 	
 	funcao real CalculaFrete (real Produto, real km ){
            
-       retorne Produto + (km*0.5)
+       retorne Produto + (km*0.05)
 
 	}
 }
